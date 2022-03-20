@@ -1,6 +1,6 @@
 - 👋 Hi, we are Forty Forty (@fortyfortypl), a small Polish software startup.
 - 👀 We are interested in developing entreprise level apps, mostly using (but not limited to) the Microsoft technology stack.
-- 🌱 We are currently learning Doker and Kubernetes.
+- 🌱 We are currently learning Docker and Kubernetes.
 - 💞️ We are looking to collaborate on a new open-source IdentityProvider solution.
 - 📫 You can reach us via fortyfortypl@protonmail.com
 
